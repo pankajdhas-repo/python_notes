@@ -1,0 +1,2 @@
+Python is awesome!
+File handling is easy.
